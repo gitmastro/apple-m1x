@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>M1 Pro vs M1 Max | gitmastro.github.io</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="HEllo" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://gitmastro.github.io/m1.html" />
+<meta property="og:url" content="https://gitmastro.github.io/m1.html" />
+<meta property="og:site_name" content="gitmastro.github.io" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="HEllo" />
+<script type="application/ld+json">
+{"url":"https://gitmastro.github.io/m1.html","@type":"WebPage","headline":"HEllo","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=52cf8099b7a67889b432b66c49717db7c6ed7d22">
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+    <script src="/assets/js/respond.js"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="/assets/css/ie.css">
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup theme-color -->
+<!-- start theme color meta headers -->
+<meta name="theme-color" content="#353535">
+<meta name="msapplication-navbutton-color" content="#353535">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<!-- end theme color meta headers -->
+
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+      <div id="header">
+        <nav>
+          <ul>
+            <li class="fork"><a href="https://github.com/gitmastro/gitmastro.github.io">M1 Pro vs M1 Max</a></li>
+            
+          </ul>
+        </nav>
+      </div><!-- end header -->
+
+    <div class="wrapper">
+
+      <section>
+        <div id="title">
+          <h1>M1 Pro vs M1 Max</h1>
+		
+	<h1 class="entry-title">M1 Pro vs M1 Max: Apple has already delivered a chip that’s too fast</h1>			
+ <div class="subheadline">
+				
+	The extra power of the M1 Max might not be worth the extra price.			</div>
+	
+<p>	One of the most interesting wrinkles about Apple’s new MacBook Pros is that the company offers them with two different chips. At first glance, you might assume that the more expensive M1 Max chip is simply a bigger, faster, more powerful chip than the less expensive M1 Pro—but looks can be deceiving. The two new chips are closely related, and depending on the kind of work you do with your MacBook Pro, the extra power of the M1 Max might not be worth the extra price.
+	</p>
+	
+<h6>
+	Please check out audio book for more details
+	<div id="station-carousel" data-id="8470274950"></div><script src="https://radio.witlingo.com/js/embed/carousel"></script>
+	</h6>
+          <p></p>
+          <hr>
+          <span class="credits left">Project maintained by <a href="https://github.com/gitmastro">gitmastro</a></span>
+          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
+        </div>
+
+        <h2 id="hello">HEllo</h2>
+
+
+      </section>
+
+    </div>
+  </body>
+</html>
